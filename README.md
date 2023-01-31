@@ -1,7 +1,7 @@
 # FullStack com a Driven
 
 # 👩‍💻Sobre o projeto
-- Códigos relacionados as aulas da [Selecao Drive](https://www.driven.com.br/ "Link do Drive").
+- Códigos relacionados as aulas da [Selecao Driven](https://www.driven.com.br/ "Link do Drive").
 - Anotações realizadas por [Júlia Tomé](https://github.com/juliatomeds)
 
 ## Principais Ferramentas e Frameworks
